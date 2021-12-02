@@ -1,0 +1,23 @@
+ .card{
+     margin: 0;
+     padding: 0;
+     background-color: blanchedalmond;
+     
+ }
+
+ .header{
+     text-align: center;
+     padding-top: 5px;
+ }
+
+ .header h4{
+     text-align: right;
+ }
+
+ .container{
+    justify-content: center;
+
+ }
+
+     
+
